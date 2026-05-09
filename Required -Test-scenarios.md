@@ -23,6 +23,7 @@ fixed time quantum of 3 units until completion.
 
 # Comparison Summary
 <img width="590" height="230" alt="image" src="https://github.com/user-attachments/assets/62ba9fe9-c6fa-41f8-936c-12cc5bc12f47" />
+
 # Scenario B: Urgency case
 **•** Include one or more processes with clearly higher priority so the policy difference is visible.
 # The purpose
