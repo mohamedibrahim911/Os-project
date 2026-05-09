@@ -1,7 +1,7 @@
 # Scenario A: Basic mixed workload
 **•** Use a normal workload with several processes.
 # The purpose
-The purpose of this scenario is to establish a performance baseline for both algorithms under standard conditions where processes have varying \
+The purpose of this scenario is to establish a performance baseline for both algorithms under standard conditions where processes have varying 
 arrival and burst times. It allows you to verify that the simulator correctly calculates \
 core metrics like Completion Time and Waiting Time for a general set of data.
 # Input 
