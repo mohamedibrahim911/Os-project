@@ -5,7 +5,8 @@
 
 # Expected behavior
 # Priority Scheduling
-**•** A scheduling policy where the CPU is allocated to the process with the highest priority (lowest numerical value), preempting lower-priority tasks.
+**•** A scheduling policy where the CPU is allocated to the process with the highest priority \
+(lowest numerical value), preempting lower-priority tasks.
 # RR Scheduling 
-A preemptive, time-sharing algorithm that assigns each process a fixed time slice (Quantum) to ensure equal CPU distribution.
+**•** A preemptive, time-sharing algorithm that assigns each process a fixed \ time slice (Quantum) to ensure equal CPU distribution.
 
