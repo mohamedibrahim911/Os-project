@@ -21,6 +21,10 @@ fixed time quantum of 3 units until completion.
 # RR Scheduling 
 <img width="735" height="90" alt="image" src="https://github.com/user-attachments/assets/536284e7-1c5f-47be-be7f-f0212781cbeb" />
 
+#Comparison Summary
+<img width="590" height="230" alt="image" src="https://github.com/user-attachments/assets/62ba9fe9-c6fa-41f8-936c-12cc5bc12f47" />
+
+
 
 
 
