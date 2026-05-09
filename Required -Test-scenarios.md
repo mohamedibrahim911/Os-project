@@ -99,10 +99,10 @@ if higher-priority processes keep arriving.
 # Scenario E: Validation case
 **•** Include at least one invalid input example and show how the simulator handles it.
 # The purpose
-The purpose of this scenario is to test the robustness and error-handling capabilities of the simulator's GUI. \ It ensures the program can gracefully handle incorrect inputs, such as negative numbers or invalid \ characters, without crashing or producing inaccurate simulation results.
+The purpose of this scenario is to test the robustness and error-handling capabilities of the simulator's GUI. \ It ensures the program can gracefully handle incorrect inputs, such as negative numbers or invalid  characters, without crashing or producing inaccurate simulation results.
 # Expected behavior
 # Priority Scheduling
-**•** If a user enters an invalid priority level (e.g., a letter instead of a number), \ the "Add Process" function should trigger an error message or clear the invalid field.
+**•** If a user enters an invalid priority level (e.g., a letter instead of a number), the "Add Process" function should trigger an error message or clear the invalid field.
 # RR Scheduling 
 **•** The simulator should detect invalid inputs like a negative Time Quantum or non-numeric burst times and halt the simulation to prevent logical errors.
 # output 
