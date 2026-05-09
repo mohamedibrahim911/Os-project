@@ -29,6 +29,28 @@ fixed time quantum of 3 units until completion.
 # The purpose
 The purpose of this scenario is to demonstrate the efficiency of the Priority algorithm in handling time-critical tasks. \
 By assigning a high priority to certain processes, you can observe how they preempt others to achieve a lower Response Time compared to the "fair" Round Robin approach.
+# Input
+<img width="753" height="81" alt="image" src="https://github.com/user-attachments/assets/e9d6cdd8-5a06-498e-a7b4-61108ff19aaa" />
+
+# Expected behavior
+# Priority Scheduling
+**•** High-priority processes will preempt others immediately upon arrival, resulting in a \
+significantly lower response time (RT) for those specific tasks.
+# RR Scheduling 
+**•** Critical tasks will wait their turn just like any other process, leading to a \
+higher average response time for "urgent" jobs.
+# output 
+# Priority Scheduling
+<img width="690" height="78" alt="image" src="https://github.com/user-attachments/assets/3bb65eae-ace3-4f5b-9d9e-67009b641954" />
+
+# RR Scheduling 
+<img width="692" height="80" alt="image" src="https://github.com/user-attachments/assets/c5339621-741a-4545-a10a-e96cb7140588" />
+
+# Comparison Summary
+<img width="560" height="237" alt="image" src="https://github.com/user-attachments/assets/f629264e-43dd-4d54-b49d-e24375902606" />
+
+# Scenario C: Fairness case
+
 
 
 
