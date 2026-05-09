@@ -11,7 +11,7 @@ Response Time (RT) calculation\
 Average performance metrics\
 Input validation for invalid data\
 # Technologies used
-Java\
+Java
 # Team members 
 Mohamed ibrahim mohamed\ 
 Seif Haitham Azzam\
@@ -19,5 +19,5 @@ Amr mohamed Hassan\
 Eyad alaa eldin\
 Saif eldin Hatem Saber\
 Ahmed Ibrahim Hafez\
-Saif eldin Tarik Saher\
+Saif eldin Tarik Saher
 
