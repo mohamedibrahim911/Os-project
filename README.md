@@ -9,7 +9,7 @@ This project is an Operating Systems simulator that compares Round Robin (RR) an
 **•** Turnaround Time (TAT) calculation\
 **•** Response Time (RT) calculation\
 **•** Average performance metrics\
-**•** Input validation for invalid data\
+**•** Input validation for invalid data
 # Technologies used
 Java
 # Team members 
