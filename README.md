@@ -13,11 +13,11 @@ Input validation for invalid data\
 # Technologies used
 Java
 # Team members 
-&bull Mohamed ibrahim mohamed\ 
-Seif Haitham Azzam\
-Amr mohamed Hassan\
-Eyad alaa eldin\
-Saif eldin Hatem Saber\
-Ahmed Ibrahim Hafez\
-Saif eldin Tarik Saher
+**•** Mohamed ibrahim mohamed\ 
+**•** Seif Haitham Azzam\
+**•** Amr mohamed Hassan\
+**•** Eyad alaa eldin\
+**•** Saif eldin Hatem Saber\
+**•** Ahmed Ibrahim Hafez\
+**•** Saif eldin Tarik Saher
 
