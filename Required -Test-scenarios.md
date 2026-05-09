@@ -50,7 +50,30 @@ higher average response time for "urgent" jobs.
 <img width="560" height="237" alt="image" src="https://github.com/user-attachments/assets/f629264e-43dd-4d54-b49d-e24375902606" />
 
 # Scenario C: Fairness case
+**•** Prepare a workload that shows whether Round Robin distributes service more evenly. 
+# The purpose
+The purpose of this scenario is to highlight the Round Robin algorithm's ability to distribute CPU time equally among all active processes. \ 
+It proves that no single process can hog the CPU, ensuring a more balanced and predictable execution environment for all tasks.
+# Input 
+<img width="903" height="77" alt="image" src="https://github.com/user-attachments/assets/e7f4de71-8384-47d1-b484-f484161d7556" />
 
+# Expected behavior
+# Priority Scheduling
+**•** Service is naturally uneven, as the scheduler explicitly favors processes with lower priority \
+numbers regardless of how long others have been waiting.
+# RR Scheduling 
+**•** This policy ensures a balanced distribution of service, where the difference \ between the minimum and maximum waiting times is minimized.
+# output 
+# Priority Scheduling
+<img width="771" height="80" alt="image" src="https://github.com/user-attachments/assets/b8f7e764-593b-4d4e-b97f-9438dd198a71" />
+
+# RR Scheduling
+<img width="781" height="80" alt="image" src="https://github.com/user-attachments/assets/bebd168f-2e82-44f0-8428-5d110b7d8757" />
+
+# Comparison Summary
+<img width="657" height="220" alt="image" src="https://github.com/user-attachments/assets/6e93def9-eae0-4707-b3c1-ad4430cd8742" />
+
+# Scenario D: Possible starvation case 
 
 
 
