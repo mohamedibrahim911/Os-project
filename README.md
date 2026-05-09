@@ -2,7 +2,7 @@
 # Project description
 This project is an Operating Systems simulator that compares Round Robin (RR) and Priority Scheduling algorithms using the same workload.
 # Features
-Round Robin Scheduling
+Round Robin Scheduling\
 Priority Scheduling
 Gantt Chart visualization
 Waiting Time (WT) calculation
