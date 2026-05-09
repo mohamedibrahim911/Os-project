@@ -78,8 +78,33 @@ numbers regardless of how long others have been waiting.
 # The purpose
 The purpose of this scenario is to illustrate the primary weakness of Priority scheduling, where low-priority \
 tasks are repeatedly delayed by incoming high-priority ones. It provides a visual contrast to Round Robin, where every process is guaranteed to finish regardless of its status.
+# Input 
+<img width="843" height="102" alt="image" src="https://github.com/user-attachments/assets/9bfc73a5-24db-4188-b0d8-b4d046e86d67" />
 
+# Expected behavior
+# Priority Scheduling
+**•** Low-priority tasks, such as P3 in the simulation, may experience very high waiting times (WT = 15) \
+if higher-priority processes keep arriving.
+# RR Scheduling 
+**•** Starvation is impossible here because the circular nature of the queue guarantees that every process eventually gets its time slice.
+# output 
+# Priority Scheduling
+<img width="752" height="106" alt="image" src="https://github.com/user-attachments/assets/b13d61cd-2ab3-4419-abb3-f9fb79a17942" />
+# RR Scheduling
+<img width="755" height="108" alt="image" src="https://github.com/user-attachments/assets/3a80f710-af89-4274-8e26-664566e44a8a" />
 
+# Comparison Summary
+<img width="605" height="254" alt="image" src="https://github.com/user-attachments/assets/211b46ad-4867-4f49-abac-5bae7820df27" />
 
-
+# Scenario E: Validation case
+**•** Include at least one invalid input example and show how the simulator handles it.
+# The purpose
+The purpose of this scenario is to test the robustness and error-handling capabilities of the simulator's GUI. \ It ensures the program can gracefully handle incorrect inputs, such as negative numbers or invalid \ characters, without crashing or producing inaccurate simulation results.
+# Expected behavior
+# Priority Scheduling
+**•** If a user enters an invalid priority level (e.g., a letter instead of a number), \ the "Add Process" function should trigger an error message or clear the invalid field.
+# RR Scheduling 
+**•** The simulator should detect invalid inputs like a negative Time Quantum or non-numeric burst times and halt the simulation to prevent logical errors.
+# output 
+<img width="1135" height="581" alt="image" src="https://github.com/user-attachments/assets/9963019a-5cdd-473a-95c3-7dfac774f030" />
 
