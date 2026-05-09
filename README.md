@@ -13,7 +13,7 @@ This project is an Operating Systems simulator that compares Round Robin (RR) an
 # Technologies used
 Java
 # Team members 
-**•** Mohamed ibrahim mohamed\ 
+**•** Mohamed ibrahim mohamed
 **•** Seif Haitham Azzam\
 **•** Amr mohamed Hassan\
 **•** Eyad alaa eldin\
