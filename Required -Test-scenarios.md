@@ -52,7 +52,7 @@ higher average response time for "urgent" jobs.
 # Scenario C: Fairness case
 **•** Prepare a workload that shows whether Round Robin distributes service more evenly. 
 # The purpose
-The purpose of this scenario is to highlight the Round Robin algorithm's ability to distribute CPU time equally among all active processes. \ 
+The purpose of this scenario is to highlight the Round Robin algorithm's ability to distribute CPU time equally among all active processes.
 It proves that no single process can hog the CPU, ensuring a more balanced and predictable execution environment for all tasks.
 # Input 
 <img width="903" height="77" alt="image" src="https://github.com/user-attachments/assets/e7f4de71-8384-47d1-b484-f484161d7556" />
@@ -74,7 +74,10 @@ numbers regardless of how long others have been waiting.
 <img width="657" height="220" alt="image" src="https://github.com/user-attachments/assets/6e93def9-eae0-4707-b3c1-ad4430cd8742" />
 
 # Scenario D: Possible starvation case 
-
+**•** Prepare a workload in which low-priority processes may wait much longer.
+# The purpose
+The purpose of this scenario is to illustrate the primary weakness of Priority scheduling, where low-priority \
+tasks are repeatedly delayed by incoming high-priority ones. It provides a visual contrast to Round Robin, where every process is guaranteed to finish regardless of its status.
 
 
 
